@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 
 
 
-## Preparing Dataset and Model
+## Preparing Dataset
 
 You can download the datasets, and organize them as follows: 
 ```
