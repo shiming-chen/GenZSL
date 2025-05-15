@@ -36,7 +36,7 @@ Refer to scripts in `./scripts/usage.sh`
 
 
 ### Results
-Results of our released models using various evaluation protocols on three datasets, both in the conventional ZSL (CZSL) and generalized ZSL (GZSL) settings.
+Results of our method using various evaluation protocols on three datasets, both in the conventional ZSL (CZSL) and generalized ZSL (GZSL) settings.
 
 | Dataset | Acc(CZSL) | U(GZSL) | S(GZSL) | H(GZSL) |
 | :-----: | :-------: | :-----: | :-----: | :-----: |
