@@ -13,5 +13,4 @@ python train_topk_f_czsl.py --dataset CUB --syn_num 1600 --alpha1 0.1 --use_svd 
 # ======================================== SUN ======================================== #
 python train_topk_f_gzsl.py --dataset SUN --syn_num 3200 --alpha1 0.001 --use_svd --topK 2
 python train_topk_f_czsl.py --dataset SUN --syn_num 3200 --alpha1 0.001 --use_svd --topK 2
-
-
+python train_clf.py --dataset SUN --syn_num 800 --clf_nepoch 200 --seed 250
